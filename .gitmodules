@@ -1,0 +1,6 @@
+[submodule "MatchingNetworks"]
+	path = MatchingNetworks
+	url = https://github.com/gitabcworld/MatchingNetworks
+[submodule "prototypical-networks"]
+	path = prototypical-networks
+	url = https://github.com/jsalbert/prototypical-networks
